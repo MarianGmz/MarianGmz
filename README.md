@@ -6,7 +6,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap:	
--  **Languages :** Python, C,HTML, Css, JavaScript
+-  **Languages :** Python, C, HTML, Css, JavaScript
 -  **Hobbies :** Videogames & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :fire: 
 
